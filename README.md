@@ -1,5 +1,7 @@
 # The Smart Toothbrush - README
 
+* Imported from my university github account
+
 ## Introduction
 My artefact is called the Smart Toothbrush. This toothbrush is essential for everyone to have as it motivates people to develop healthy brushing habits. Everytime you brush your teeth, this toothbrush uses the accelerometer attached to the end of the toothbrush to detect changes in movement and then posts this data to a webserver which can also be accessed by your designated dentist. This way through the concept of public shaming, users will want to make sure that they brush 2 - 3 times a day just to please the dentist and to maintain a positive self-image.
 
